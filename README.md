@@ -8,3 +8,4 @@ To install plugins, you need to clone the contents of the repository into the fo
 - Name: CreateTestFilePython
 - Folder: python_autotest
 - Description: This plugin creates a `test_<NameFolder>` folder inside the directory and creates a `test_<NameFile>` file in it. This is very convenient when there are long names, and so a folder for tests is created in the directory and each file is labeled.
+- Usage: Press the `Ctrl+T` key combination while in a file with the extension 'py'.
