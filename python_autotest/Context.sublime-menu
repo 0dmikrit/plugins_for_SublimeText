@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Starting Python",
+        "mnemonic": "f",
+        "id": "starting_python",
+        "children":
+        [
+            {
+                "command": "starting_python",
+                "caption": "Show Characters Table"
+            }
+        ]
+    },
+	{
+        "caption": "-",
+        "id": "separator"
+    }
+]
